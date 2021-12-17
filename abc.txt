@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added this line on GitHub
+=======
+another line adde
+>>>>>>> ec2ef29 (added new line locally)
